@@ -4,7 +4,7 @@
 db_backups/
 
 # Dynamic Output
-target_universe.csv
+*.csv
 
 # Python Cache
 __pycache__/

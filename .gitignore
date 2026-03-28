@@ -1,4 +1,4 @@
-# Database and Backups
+﻿# Database and Backups
 *.db
 *.sqlite
 db_backups/

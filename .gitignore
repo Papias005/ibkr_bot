@@ -1,0 +1,12 @@
+# Database and Backups
+*.db
+*.sqlite
+db_backups/
+
+# Dynamic Output
+target_universe.csv
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
